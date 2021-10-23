@@ -1,0 +1,8 @@
+User-agent: Googlebot-Image
+Disallow: /image/risoles.jpeg
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: http://jajan-bersemi.netlify.app/sitemap.xml
